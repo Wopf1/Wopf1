@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wopf1
-- 👀 I’m interested in code
-- 🌱 I’m currently learning to code 
-- 💞️ I’m looking to code
-- 📫 How to code
+- 👋 Hi, I’m @Wopfi
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning html, css, js
+- 💞️ I’m looking to code stuff
+- 📫 How to code???
 
 <!---
 Wopf1/Wopf1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
